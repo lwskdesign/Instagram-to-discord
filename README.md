@@ -1,5 +1,6 @@
 # Instagram to discord post images
 [![status: archive](https://github.com/GIScience/badges/raw/master/status/archive.svg)](https://github.com/GIScience/badges#archive)
+
 Forked version of @fernandod1's excellent [Instagram-to-Discord](https://github.com/fernandod1/Instagram-to-discord)-Bot.
 
 This script executes 3 actions:
